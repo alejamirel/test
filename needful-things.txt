@@ -1,1 +1,7 @@
 git config --global http.sslVerify false
+
+git add .
+
+git commit -m "note to self"
+
+git push
